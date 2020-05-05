@@ -1,0 +1,14 @@
+{
+  "name": "basic_javascript",
+  "version": "0.0.1",
+  "description": "javascript question",
+  "main": "index.js",
+  "author": "jerrmy YU",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^25.4.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
